@@ -1,0 +1,43 @@
+h1 {
+ color: maroon; margin: 15px; padding: 10px;
+}
+
+p {
+  color: maroon; font-size: 18px; width: 600px;
+  margin: 25px; padding: 5px;
+}
+span {
+  color: darkblue;
+  font-style: italic;
+}
+h2 {
+  color: maroon;
+  margin: 15px; padding: 10px;
+}
+h3 {
+  color: maroon;
+  margin: 15px; padding: 10px;
+  font-size: 25px;
+}
+p.Story1{
+  font-weight: bold;
+  height: 125px;
+}
+#CompanyName{
+  font-style: italic; font-size: 40px;
+}
+#SnoopyPhoto{
+  border: 6px solid black; height: 300px;
+  margin: 10px;
+}
+#JolieandI{
+  border: 6px solid black; height: 500px;
+  margin: 15px;
+}
+#QuackersandI{
+  border: 6px solid black; height: 500px;
+  margin: 50px;
+}
+*{
+  background: darkgrey;
+}
